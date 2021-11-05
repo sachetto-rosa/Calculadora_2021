@@ -28,7 +28,7 @@ namespace Calculadora_2021
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            tBmensagem.Text = "Calculadora de SisSup 2021/2!";
+            tBmensagem.Text = "Calculadora diferenciada de SisSup 2021/2!";
 
             this.blink.Start();
         }
